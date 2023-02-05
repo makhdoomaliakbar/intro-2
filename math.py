@@ -1,6 +1,6 @@
 def add (X,y):
-  return none
+  return X+y
  
 def mult(X,y):
-  return 5
+  return X*y
   
